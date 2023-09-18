@@ -1,0 +1,12 @@
+//package com.project.AuthenticatorService;
+//
+//import org.springframework.boot.SpringApplication;
+//import org.springframework.boot.autoconfigure.SpringBootApplication;
+//import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
+//
+//@SpringBootApplication
+//public class AuthenticatorService {
+//    public static void main(String[] args) {
+//        SpringApplication.run(AuthenticatorService.class, args);
+//    }
+//}
